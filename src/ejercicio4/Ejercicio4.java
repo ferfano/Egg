@@ -27,6 +27,7 @@ public class Ejercicio4 {
     public static void main(String[] args) {
         
         String atributo1;
+        String atributo2;
         
         Alquiler a = new Alquiler();
         a.alquilarUnBarco();
